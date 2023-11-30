@@ -78,6 +78,13 @@ const config = {
         'completed Web Application try hack me room, and Walking an application try hack me room.',
       link: 'https://docs.google.com/document/d/1Vy2XooLmzQxlLSFpqijSgxNFqkbUiIv-WV17KrQ1J0Q/edit',
     },
+    {
+     title: 'Badges',
+      description:
+        'complete AWS, Packet Tracer, and ISC2',
+      imageUrl: '',
+      link: 'https://docs.google.com/document/d/1bdjGRkQ2ELkl_uv_Pm_aHUYT87RWmZxSsBKalNvzXzg/edit'
+    },
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
