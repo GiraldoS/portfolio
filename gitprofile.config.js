@@ -35,43 +35,19 @@ const config = {
   skills: [
     'PHP',
     'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
     'MySQL',
-    'PostgreSQL',
     'Git',
-    'Docker',
     'PHPUnit',
     'CSS',
-    'Antd',
-    'Tailwind',
   ],
-  experiences: [
-    {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
-    },
-    {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
-    },
-  ],
-   Badges: [
+  Badges: [
     {
       name: 'Course Badges',
       body: 'Packet Tracer, ISC2, AWS badge',
-      year: 'March 2022',
-      link: '"https://docs.google.com/document/d/1bdjGRkQ2ELkl_uv_Pm_aHUYT87RWmZxSsBKalNvzXzg/edit"'
+      year: 'November 2023',
+      Link: '"https://docs.google.com/document/d/1bdjGRkQ2ELkl_uv_Pm_aHUYT87RWmZxSsBKalNvzXzg/edit"',
     },
-  ], 
+  ],
   education: [
     {
       institution: 'Institution Name',
