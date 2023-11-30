@@ -64,14 +64,14 @@ const config = {
       companyLink: 'https://example.com',
     },
   ],
-  /* certifications: [
+   Badges: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
+      name: 'Course Badges',
+      body: 'Packet Tracer, ISC2, AWS badge',
       year: 'March 2022',
-      link: 'https://example.com'
+      link: '"https://docs.google.com/document/d/1bdjGRkQ2ELkl_uv_Pm_aHUYT87RWmZxSsBKalNvzXzg/edit"'
     },
-  ], */
+  ], 
   education: [
     {
       institution: 'Institution Name',
@@ -90,18 +90,17 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'Incident Report',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        'Incident Report analysis assignment done in MIS 4123',
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      link: 'https://docs.google.com/document/d/1_EktYHSvcm5sJYqzs_oWfrcBIqZqok4FHJNpypUlO_4/edit?resourcekey=0-CkZ0iK1O7xryku6WuTBs9A',
     },
     {
-      title: 'Project Name',
+      title: 'Try Hack me',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+        'completed Web Application try hack me room, and Walking an application try hack me room.',
+      link: 'https://docs.google.com/document/d/1Vy2XooLmzQxlLSFpqijSgxNFqkbUiIv-WV17KrQ1J0Q/edit',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
