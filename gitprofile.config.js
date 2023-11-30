@@ -85,6 +85,13 @@ const config = {
       imageUrl: '',
       link: 'https://docs.google.com/document/d/1bdjGRkQ2ELkl_uv_Pm_aHUYT87RWmZxSsBKalNvzXzg/edit'
     },
+     {
+     title: 'Try Hack Me',
+      description:
+        'Both try hack me; Walking an Application & Web Application',
+      imageUrl: '',
+      link: 'https://docs.google.com/document/d/1Vy2XooLmzQxlLSFpqijSgxNFqkbUiIv-WV17KrQ1J0Q/edit'
+    },
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
