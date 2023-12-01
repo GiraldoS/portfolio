@@ -12,7 +12,7 @@ const config = {
   },
   social: {
     linkedin: '',
-    twitter: 'SGiraldo32',
+    twitter: '',
     mastodon: '',
     facebook: '',
     instagram: '',
@@ -34,7 +34,6 @@ const config = {
   },
   skills: [
     'PHP',
-    'Laravel',
     'MySQL',
     'Git',
     'PHPUnit',
@@ -69,7 +68,7 @@ const config = {
       title: 'Incident Report',
       description:
         'Incident Report analysis assignment done in MIS 4123',
-      imageUrl: 'https://via.placeholder.com/250x250',
+      imageUrl: '',
       link: 'https://docs.google.com/document/d/1_EktYHSvcm5sJYqzs_oWfrcBIqZqok4FHJNpypUlO_4/edit?resourcekey=0-CkZ0iK1O7xryku6WuTBs9A',
     },
     {
@@ -86,11 +85,18 @@ const config = {
       link: 'https://docs.google.com/document/d/1bdjGRkQ2ELkl_uv_Pm_aHUYT87RWmZxSsBKalNvzXzg/edit'
     },
      {
-     title: 'Try Hack Me',
+     title: 'Security Audit',
       description:
-        'Both try hack me; Walking an Application & Web Application',
+        'XYZ Financial Services security audit with Stakeholder memo, audit scope n goals, and control assessment',
       imageUrl: '',
-      link: 'https://docs.google.com/document/d/1Vy2XooLmzQxlLSFpqijSgxNFqkbUiIv-WV17KrQ1J0Q/edit'
+      link: 'https://docs.google.com/document/d/1PqJxm7K2jyYXjH7Nk1CwAqFIkOyqSg1pnOv3lCteZ8Q/edit?resourcekey=0-hZZvlMgWN_w_p47Trb9glA'
+    },
+    {
+     title: '',
+      description:
+        '',
+      imageUrl: '',
+      link: ''
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
