@@ -92,6 +92,13 @@ const config = {
       link: 'https://docs.google.com/document/d/1PqJxm7K2jyYXjH7Nk1CwAqFIkOyqSg1pnOv3lCteZ8Q/edit?resourcekey=0-hZZvlMgWN_w_p47Trb9glA'
     },
     {
+     title: 'Professional Pitch',
+      description:
+        'Professional Pitch Video',
+      imageUrl: '',
+      link: 'https://docs.google.com/document/d/1foa8XpNIujXa3om3eTvtJEsYRADnIni0ntOf26SW8Aw/edit'
+    },
+      {
      title: '',
       description:
         '',
