@@ -106,11 +106,11 @@ const config = {
       link: 'https://docs.google.com/document/d/1soT6gupQdU5xaoBQV2IhXGG6gri3IByum5dvfVlicZ4/edit'
     },
          {
-     title: '',
+     title: 'HeatMap',
       description:
-        '',
+        'HeatMap assignment takes a look at our Home networks and the connections in it',
       imageUrl: '',
-      link: ''
+      link: 'https://docs.google.com/document/d/1_jTk41JAfFMgGkuTW6ET964v_4w3g924KCw61wFcws0/edit'
     },
          {
      title: '',
