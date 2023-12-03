@@ -30,7 +30,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://docs.google.com/document/d/1LVQL2kJhlH7rWOoXqUBcL9ZUamWDzIeL/edit?usp=sharing&ouid=105129703488626949045&rtpof=true&sd=true', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP',
@@ -49,16 +49,16 @@ const config = {
   ],
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'Cape Fear CC',
+      degree: 'MIS',
+      from: '2019',
+      to: '2021',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'East Carolina University',
+      degree: 'MIS',
+      from: '2021',
+      to: '2024',
     },
   ],
 
