@@ -99,6 +99,20 @@ const config = {
       link: 'https://docs.google.com/document/d/1foa8XpNIujXa3om3eTvtJEsYRADnIni0ntOf26SW8Aw/edit'
     },
       {
+     title: 'Final Project',
+      description:
+        'Final Project with group presentation',
+      imageUrl: '',
+      link: 'https://docs.google.com/document/d/1soT6gupQdU5xaoBQV2IhXGG6gri3IByum5dvfVlicZ4/edit'
+    },
+         {
+     title: '',
+      description:
+        '',
+      imageUrl: '',
+      link: ''
+    },
+         {
      title: '',
       description:
         '',
