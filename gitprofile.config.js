@@ -113,11 +113,11 @@ const config = {
       link: 'https://docs.google.com/document/d/1_jTk41JAfFMgGkuTW6ET964v_4w3g924KCw61wFcws0/edit'
     },
          {
-     title: '',
+     title: 'Splunk',
       description:
-        '',
+        'Splunk extra credit activity',
       imageUrl: '',
-      link: ''
+      link: 'https://docs.google.com/document/d/1ro3cpLM2u-iJKCcgLwRXVVyrPJniUPOoNExVuLnP1jY/edit?usp=sharing'
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
