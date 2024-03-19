@@ -33,11 +33,13 @@ const config = {
       'https://docs.google.com/document/d/1LVQL2kJhlH7rWOoXqUBcL9ZUamWDzIeL/edit?usp=sharing&ouid=105129703488626949045&rtpof=true&sd=true', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
+    {
     'PHP',
     'MySQL',
     'Git',
     'PHPUnit',
     'CSS',
+    },
   ],
   Badges: [
     {
@@ -99,7 +101,7 @@ const config = {
       link: 'https://docs.google.com/document/d/1foa8XpNIujXa3om3eTvtJEsYRADnIni0ntOf26SW8Aw/edit'
     },
       {
-     title: 'Final Project',
+     title: 'Final Projects',
       description:
         'Final Project with group presentation',
       imageUrl: '',
