@@ -101,7 +101,7 @@ const config = {
       link: 'https://docs.google.com/document/d/1foa8XpNIujXa3om3eTvtJEsYRADnIni0ntOf26SW8Aw/edit'
     },
       {
-     title: 'Final Projects',
+     title: 'Course Projects',
       description:
         'Final Project with group presentation',
       imageUrl: '',
